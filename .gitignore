@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+obj
+bin
+/.vs/Ambev.DeveloperEvaluation/CopilotIndices/0.2.1657.32929
